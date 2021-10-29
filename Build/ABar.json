@@ -1,0 +1,16 @@
+{
+"companyName": "OCTOPY",
+"productName": "Awesome Burger",
+"productVersion": "0.1",
+"dataUrl": "ABar.data.unityweb",
+"wasmCodeUrl": "ABar.wasm.code.unityweb",
+"wasmFrameworkUrl": "ABar.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
